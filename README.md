@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ivialonso I am 32 years old and I live in the city of Miramar, Argentina.
+- 👀 I’m interested in I am interested in programming in Blockchain to present my two projects, one related to Smart Contract and Nfts Music, where I would like to create my own marketplace to mint song albums and digital art for artists and musicians in Latin America. On the other hand, I am a Defi enthusiast, which interests me to share my knowledge in p2p trading operations and staking to offer it as an onchain crypto operations service.
+- 🌱 I’m currently learning to program in Ethereum and more precisely in Solidity, using tools like Ganache, Visual Studio Code, Truffle, Metamask and Remix.
+- 💞️ I’m looking to collaborate on I seek to collaborate in the development of the ERC6551 token to bring more musical artists closer to interacting with the Blockchain and selling their digital works in crypto.
+- 📫 How to reach me, E-mail: jeniferalonsoivana@gmail.com // Twitter: @ivicryptonauta(amapoladel66) // Discord: cryptoivi // Instagram: @cryptoivi // Telegram: IviAlonso .
